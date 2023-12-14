@@ -421,7 +421,7 @@ letter-spacing: 0.015em;
     background-position: center top;
     /*padding: 40px; (If don't want to set min-height or some image content is there) */
     background-size:cover;
-    background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url(/public/images/rendimientobanner7@2x.webp);
+    background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url(../images/rendimientobanner7@2x.webp)
 
 }
 .banner-container-mainSections{
