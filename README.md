@@ -1,6 +1,6 @@
 # Refribaires  
 
-Deployed at www.refribaires.com  
+Deployed at https://refribaires.vercel.app/  
 
 Landing page about AC & heating services.  
   
